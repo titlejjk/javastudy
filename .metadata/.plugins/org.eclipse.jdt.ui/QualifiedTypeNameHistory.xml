@@ -6,4 +6,16 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="test.mypac.MyUtil"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="test.main.MainClass07"/>
+    <fullyQualifiedTypeName name="java.lang.management.MemoryNotificationInfo"/>
+    <fullyQualifiedTypeName name="java.nio.channels.MembershipKey"/>
+    <fullyQualifiedTypeName name="test.mypac.Members"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Member"/>
+    <fullyQualifiedTypeName name="test.mypac.Model"/>
+    <fullyQualifiedTypeName name="test.mypac.test"/>
+    <fullyQualifiedTypeName name="test.mypac.Airplane"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="test.mypac.Animal"/>
 </qualifiedTypeNameHistroy>

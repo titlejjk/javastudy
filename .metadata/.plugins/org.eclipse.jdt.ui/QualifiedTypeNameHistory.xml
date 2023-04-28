@@ -11,11 +11,20 @@
     <fullyQualifiedTypeName name="java.nio.channels.MembershipKey"/>
     <fullyQualifiedTypeName name="test.mypac.Members"/>
     <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="java.lang.reflect.Member"/>
     <fullyQualifiedTypeName name="test.mypac.Model"/>
     <fullyQualifiedTypeName name="test.mypac.test"/>
-    <fullyQualifiedTypeName name="test.mypac.Airplane"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="test.mypac.Animal"/>
+    <fullyQualifiedTypeName name="test.mypac.Test"/>
+    <fullyQualifiedTypeName name="test.mypac.Airplane"/>
+    <fullyQualifiedTypeName name="test.mypac.Student"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Member"/>
+    <fullyQualifiedTypeName name="test.mypac.Member"/>
+    <fullyQualifiedTypeName name="test.mypac.Cpu"/>
+    <fullyQualifiedTypeName name="test.mypac.Memory"/>
+    <fullyQualifiedTypeName name="test.mypac.HardDisk"/>
+    <fullyQualifiedTypeName name="test.mypac.MacBook"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>

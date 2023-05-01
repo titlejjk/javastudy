@@ -24,7 +24,7 @@
     <fullyQualifiedTypeName name="test.mypac.Cpu"/>
     <fullyQualifiedTypeName name="test.mypac.Memory"/>
     <fullyQualifiedTypeName name="test.mypac.HardDisk"/>
-    <fullyQualifiedTypeName name="test.mypac.MacBook"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="test.mypac.MacBook"/>
 </qualifiedTypeNameHistroy>

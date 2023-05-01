@@ -12,7 +12,7 @@ public class MainClass02 {
 		nums[2] = 30;
 		
 		// 0 으로 초기화된 방 500개짜리 int[] 객체를 만들어서 참조값을 지역 변수 nums2에 담기
-		int[] nums2 = new int[500];
+		int[] nums2 = new int[500]; //new 데이터type[방의갯수]
 		/*
 		 *  0 번방에 1
 		 *  1 번방에 2
@@ -30,6 +30,5 @@ public class MainClass02 {
 			System.out.println(i+"번방에 는" + nums2[i] + "입니다.");
 			System.out.println(Arrays.toString(nums2));
 		}
-		System.out.println(nums2[]);
 	}
 }

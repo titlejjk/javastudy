@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="test.mypac.Student"/>
-    <fullyQualifiedTypeName name="java.lang.reflect.Member"/>
-    <fullyQualifiedTypeName name="test.mypac.Cpu"/>
-    <fullyQualifiedTypeName name="test.mypac.Memory"/>
-    <fullyQualifiedTypeName name="test.mypac.HardDisk"/>
-    <fullyQualifiedTypeName name="test.mypac.MacBook"/>
-    <fullyQualifiedTypeName name="test.mypac.Bike"/>
-    <fullyQualifiedTypeName name="test.mypac.Phone"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
-    <fullyQualifiedTypeName name="test.mypac.HandPhone"/>
-    <fullyQualifiedTypeName name="test.mypac.AndroidPhone"/>
-    <fullyQualifiedTypeName name="test.auto.Car"/>
-    <fullyQualifiedTypeName name="test.auto.Bus"/>
     <fullyQualifiedTypeName name="test.auto.Engine"/>
     <fullyQualifiedTypeName name="test.util.BaseUtil"/>
     <fullyQualifiedTypeName name="test.util.MyUtil"/>
@@ -48,7 +35,6 @@
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
-    <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="java.util.List"/>
@@ -56,8 +42,22 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Collection"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="test.mypac.WowException"/>
+    <fullyQualifiedTypeName name="test.mypac.MyUtil"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="frame01.MyFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+    <fullyQualifiedTypeName name="java.awt.FlowLayout"/>
+    <fullyQualifiedTypeName name="frame05.MyFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
 </qualifiedTypeNameHistroy>

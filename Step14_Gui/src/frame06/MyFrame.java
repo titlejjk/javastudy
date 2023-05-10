@@ -82,15 +82,24 @@ public class MyFrame extends JFrame implements ActionListener{
 		//이 객체를 활용하면 어떤 버튼이 눌러 졌는지 구별할 수 있다.
 		
 		//눌러진 버튼의 참조값 얻어오기
+//		Object which = e.getSource();
+//		if(which == sendBtn) {
+//			//전송 버튼을 누른것이다.
+//			JOptionPane.showMessageDialog(this, "전송합니다");
+//		}
+//		if(which == deleteBtn) {
+//			JOptionPane.showMessageDialog(this, "삭제합니다");
+//		}
+//		if(which == updateBtn) {
+//			JOptionPane.showMessageDialog(this, "수정합니다");
+//		}
 		Object which = e.getSource();
 		if(which == sendBtn) {
 			//전송 버튼을 누른것이다.
 			JOptionPane.showMessageDialog(this, "전송합니다");
-		}
-		if(which == deleteBtn) {
+		}else if(which == deleteBtn) {
 			JOptionPane.showMessageDialog(this, "삭제합니다");
-		}
-		if(which == updateBtn) {
+		}else if(which == updateBtn) {
 			JOptionPane.showMessageDialog(this, "수정합니다");
 		}
 		

@@ -16,7 +16,8 @@ public class MainClass07 {
 		//아래에 정의한 test() 메소드가 호출가능 할까?
 		MainClass07.test();
 		test();
-		
+		System.out.println(result);
+		System.out.println(result2);
 	}
 	public static void test() {
 		System.out.println("test() 메소드가 호출되었습니다.");

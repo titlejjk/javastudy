@@ -18,5 +18,9 @@ public class MainClass05 {
 		name = "원숭이";
 		// name 변수를 비우기 (null 은 참조 데이터 type이 담길수 있는 빈 공간을 의미한다.)
 		name = null;
+		
+		name = "김구라";
+		
+		System.out.println(name);
 	}
 }

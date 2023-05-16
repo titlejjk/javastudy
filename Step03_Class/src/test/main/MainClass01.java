@@ -27,5 +27,6 @@ public class MainClass01 {
 		boolean result = car1 == car2; //false
 		System.out.println(result);
 		boolean result2 = car1.name == car2.name; //false
+
 	}
 }

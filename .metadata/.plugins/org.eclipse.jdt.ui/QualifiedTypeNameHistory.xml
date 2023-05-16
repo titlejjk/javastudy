@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="frame08.MyFrame"/>
-    <fullyQualifiedTypeName name="java.awt.event.ActionEvent"/>
-    <fullyQualifiedTypeName name="java.lang.Appendable"/>
-    <fullyQualifiedTypeName name="frame08.QuizMain1"/>
-    <fullyQualifiedTypeName name="java.lang.Double"/>
-    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
-    <fullyQualifiedTypeName name="test.mypac.AnotherThread"/>
-    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
-    <fullyQualifiedTypeName name="frame03.MyFrame.CountThread"/>
-    <fullyQualifiedTypeName name="test.mypac.CountRunnable"/>
-    <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="javax.print.DocFlavor.INPUT_STREAM"/>
     <fullyQualifiedTypeName name="java.io.InputStream"/>
@@ -39,7 +28,6 @@
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="oracle.net.aso.l"/>
     <fullyQualifiedTypeName name="javax.swing.JFrame"/>
     <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
@@ -51,13 +39,25 @@
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="MainClass07"/>
     <fullyQualifiedTypeName name="test.main.MainClass08"/>
-    <fullyQualifiedTypeName name="test.mypac.Member"/>
     <fullyQualifiedTypeName name="javax.xml.stream.events.EntityReference"/>
-    <fullyQualifiedTypeName name="test.util.DBConnect"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="test.dto.MemberDto"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="test.util.DBConnect"/>
+    <fullyQualifiedTypeName name="test.main.MainClass14"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="test.mypac.Member"/>
     <fullyQualifiedTypeName name="test.dao.MemberDao"/>
+    <fullyQualifiedTypeName name="test.dto.MemberDto"/>
+    <fullyQualifiedTypeName name="test.dao.DeptDao"/>
+    <fullyQualifiedTypeName name="test.dto.DeptDto"/>
+    <fullyQualifiedTypeName name="test.mypac.Car"/>
+    <fullyQualifiedTypeName name="test.mypac.HardDisk"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="test.mypac.Memory"/>
+    <fullyQualifiedTypeName name="test.mypac.MacBook"/>
 </qualifiedTypeNameHistroy>

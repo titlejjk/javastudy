@@ -24,5 +24,9 @@ public class MainClass01 {
 		int first = nums[0];
 		int second = nums[1];
 		int third = nums[2];
+		
+		for(int i = 0; i <names.length; i++) {
+			System.out.println(names[i]);
+		}
 	}
 }

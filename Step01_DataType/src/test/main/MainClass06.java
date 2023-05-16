@@ -13,6 +13,7 @@ public class MainClass06 {
 		
 		//아직 만들어 지지 않았기 때문에 name1은 참조 불가
 		//System.out.println(name1);
+
 		System.out.println("main 메소드가 종료 됩니다.");
 	}
 }

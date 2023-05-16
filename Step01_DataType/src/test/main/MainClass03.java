@@ -11,7 +11,7 @@ package test.main;
 public class MainClass03 {
 	public static void main(String[] args) {
 		//논리형 변수 선언과 동시에 값 대입하기
-		boolean isRun = false;
+		boolean isRun = true;
 		
 		if(isRun) {
 			System.out.println("달려요");
